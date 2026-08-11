@@ -1,6 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/advancedae.pw.toml"
+hash = "44791600b6d51fed024525689166334f8e3bc97cce2acef9190f244319ea6cf8"
+metafile = true
+
+[[files]]
+file = "mods/ae2-import-export-card.pw.toml"
+hash = "f9ff125ddfd2d8e83e17b3cc87771c679ba4ba5f657661568d464c43f9c886ff"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves-(unofficial-port).pw.toml"
 hash = "e3ea6c1ae49cfdb68008b673687d013a8b75d53fc2cc66ba2d1677dc51b929b0"
 metafile = true
@@ -13,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/almostunified.pw.toml"
 hash = "3805fe2877cffdae5e7bf74d85069a2535daa39a0f3ed766755be49294a07680"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "0b00e3fcc86a4ab7744269fc576bb23180a29dc0e44954511907a8b5386e3f53"
 metafile = true
 
 [[files]]
@@ -91,6 +111,11 @@ hash = "0670ca65c7208aa8211883fae30c935f53cad38196aac46723b10e7bbc695113"
 metafile = true
 
 [[files]]
+file = "mods/extended-ae.pw.toml"
+hash = "03494a76b42b1b79e4d36a93317b8e884cafdb7e08f6103ce47ecd4e4df57645"
+metafile = true
+
+[[files]]
 file = "mods/fallingleavesforge.pw.toml"
 hash = "e5125f8f2709fd20f8182fade3d7f9e7129872c63f042c5489c6eba4733b6b49"
 metafile = true
@@ -158,6 +183,16 @@ metafile = true
 [[files]]
 file = "mods/gliders.pw.toml"
 hash = "d8f856eb2c5f3ca239896452c4bae65f17d3dd042b3fca15b6ba65fe47cfe555"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "8b30d03470cc27030f42b6719cdb8975f163ed336fc8592f0277a4291bb08aec"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "f7448243d61c3e7c5941896816afb91dd069cef492a2d93ceba9f48e391cdf44"
 metafile = true
 
 [[files]]
@@ -236,6 +271,16 @@ hash = "28d8aeaaa4e12098474b3028cf7dce0ef867de2f1a98fc6de2c224731e176fd3"
 metafile = true
 
 [[files]]
+file = "mods/mega.pw.toml"
+hash = "c9f9996ced5f4abf2ab982bb2521bef1798cf1fc6d6ebc435e38075894921efe"
+metafile = true
+
+[[files]]
+file = "mods/merequester.pw.toml"
+hash = "8f638da7fdf14f7c9cdc0687f7cae53e020736ab8a3b92e9c3fe123a212e1550"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "6d3ff3b7bbcc97fa06bdddcf2b3b7646168497ba6d7104bdea376f1bc65f9a93"
 metafile = true
@@ -308,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
+metafile = true
+
+[[files]]
+file = "mods/security-craft.pw.toml"
+hash = "98ac007465eca5728fdcfda196966022ea8ca288e631b631861b5208b9a94562"
 metafile = true
 
 [[files]]
