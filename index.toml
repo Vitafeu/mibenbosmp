@@ -61,6 +61,11 @@ hash = "a95ad2593708b55c7eba1d7250efa62e3a4cc9ee463d8fad62b04c8dbcf918c1"
 metafile = true
 
 [[files]]
+file = "mods/blockui.pw.toml"
+hash = "05abf6fafe4a8adf5aaa24f09b7dedfbe199a8727d925e816fc608d6357f5ba8"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "838dbcb90c93bab58691e82c95045bd97c3e096e3a2680a00cf063e56ce35ce3"
 metafile = true
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "d5b9c23df79ef871a70032567db2512904251347bdf13da80fbb8b00a846a79a"
+metafile = true
+
+[[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "406fd938da34e8d3beae9a7c82eed3ef5d20053a9d9ab4c5b76357e39e58bbc5"
 metafile = true
 
 [[files]]
@@ -326,6 +336,11 @@ hash = "8f638da7fdf14f7c9cdc0687f7cae53e020736ab8a3b92e9c3fe123a212e1550"
 metafile = true
 
 [[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "5f4341a4ec1c6af0363cba25f93e38a1e6c893c25a45af671d3d822ee469763c"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "6d3ff3b7bbcc97fa06bdddcf2b3b7646168497ba6d7104bdea376f1bc65f9a93"
 metafile = true
@@ -338,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "f46675d8f996e2661c1c7e58243cd27ce34fb5fa66b445b14119c10431eb4d93"
+metafile = true
+
+[[files]]
+file = "mods/multi-piston.pw.toml"
+hash = "bc9449306cb2c32f16347779291d68e5fba67f85d7aca04b4b9cc1c033ec4083"
 metafile = true
 
 [[files]]
@@ -471,6 +491,11 @@ hash = "4063a3c0f2f9a6544a870f0b90679441d7333652875dafbe3db255fc67f72c82"
 metafile = true
 
 [[files]]
+file = "mods/structurize.pw.toml"
+hash = "b73afd4e2292b43abc27ffdffdcb83cebbecbf42a9fcded31e653013151b37eb"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
@@ -503,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "5b6a8b957c193e3433593c71b2e397698c5216cce763ee973e60b1f48d79a052"
+metafile = true
+
+[[files]]
+file = "mods/towntalk.pw.toml"
+hash = "a7074e8e499d34f5ce633dbd33f818e376dd1941ec5b1d97a33acd019df69b5a"
 metafile = true
 
 [[files]]
